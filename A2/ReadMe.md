@@ -9,4 +9,4 @@
 - Second, unfreeze the last block of VGG16 (block5), re-train and evaluate the model
 - Unfreeze all the layers and try again. 
 - Compare the accuracy you got in both cases. Which one is better and why?
-- All programs should be commented in such a manner as to clearly describe the purpose of the code used to accomplish the purpose. Also, make sure to provide a brief and clear  interpretations of the results.
+- All programs should be commented in such a manner as to clearly describe the purpose of the code used to accomplish the purpose. 
